@@ -2,6 +2,8 @@
 
 諾提筆記小組發行之筆記。
 
+## 筆記目錄
+
 
 | 標題 | 科別 | 範圍 | 檔案連結 | 上架日期 | 版本 |
 | -- | -- | -- | -- | -- | -- |
@@ -12,4 +14,12 @@
 | 5～6冊地理筆記 | 地理 | 國中 | [/5～6冊地理筆記/](/5～6冊地理筆記/) | 2022/05/19 | 1.0 |
 | 台灣鄉鎮市區圖 | 地理 | - | [/台灣鄉鎮市區圖/](/台灣鄉鎮市區圖/) | 2022/05/19 | 1.0 |
 
+## 授權
+
 <p xmlns:cc="http://creativecommons.org/ns#" >本頁面之所有著作係採用<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>授權條款授權。</p>
+署名需要包含以下資訊：
+| **標題** | `[筆記標題]`
+| **作者** | 諾提（Notid）筆記小組
+| **來源** | https://github.com/WitherClubtw/notid-study-notes
+| **授權** | CC BY-NC-SA 4.0
+
