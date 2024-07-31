@@ -1,4 +1,10 @@
-# notid-study-notes
+#  (Archive / 舊) notid-study-notes
+
+## 說明
+
+這個倉儲（repository）已停止維護，目前僅作舊檔案留存用。諾提筆記小組現在的官方網站是`https://notid.notion.site/Notid-Study-Group-7d5f689582fa480b97a41672e7921fc1?pvs=4)`。未來可能會將此處的檔案搬移至新網站上。
+
+# 原`README`內容
 
 諾提筆記小組發行之筆記。
 
