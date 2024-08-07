@@ -2,11 +2,11 @@
 
 ## 說明
 
-這個倉儲（repository）已停止維護，目前僅作舊檔案留存用。諾提筆記小組現在的官方網站是`https://notid.notion.site/Notid-Study-Group-7d5f689582fa480b97a41672e7921fc1?pvs=4)`。未來可能會將此處的檔案搬移至新網站上。
+這個倉儲（repository）已停止維護，目前僅作舊檔案留存用。諾柢筆記小組現在的官方網站是`https://notid.notion.site/Notid-Study-Group-7d5f689582fa480b97a41672e7921fc1?pvs=4)`。未來可能會將此處的檔案搬移至新網站上。
 
 # 原`README`內容
 
-諾提筆記小組發行之筆記。
+諾柢筆記小組發行之筆記。
 
 ## 筆記目錄
 
@@ -26,6 +26,6 @@
 
 署名需要包含以下資訊：<br>
 **[標題]**   `筆記標題` <br>
-**[作者]**   諾提（Notid）筆記小組 <br>
+**[作者]**   諾柢（Notid）筆記小組 <br>
 **[來源]**   https://github.com/WitherClubtw/notid-study-notes <br>
 **[授權]**   CC BY-NC-SA 4.0 <br>
